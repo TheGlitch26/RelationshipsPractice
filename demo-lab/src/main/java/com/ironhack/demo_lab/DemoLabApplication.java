@@ -8,6 +8,7 @@ public class DemoLabApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoLabApplication.class, args);
+		System.out.println("Practice program runs successfully!");
 	}
 
 }
